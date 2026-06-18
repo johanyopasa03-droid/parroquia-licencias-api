@@ -1,3 +1,2 @@
-fastapi==0.111.0
-supabase==2.5.0
-pydantic==2.7.1
+# Sin dependencias externas — solo stdlib de Python
+# urllib, json, datetime, os — todo viene con Python 3.x
